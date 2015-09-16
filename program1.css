@@ -1,0 +1,173 @@
+/*Mary K Stewart, program1.css, mstewart26, Assignment2*/
+
+body {
+    background-color: #FFCC00;
+    color: #000000;
+    font-family: Georgia;
+    background-color: #D7DF01;
+}
+
+body.program {
+    background-color: #81BEF7;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+body.programlemon{
+    background-color: #F2F5A9;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+
+
+table {
+    background-color: #CC9933;
+    color: #FFFFFF;
+    border-color: #F0F0F0;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th {
+    font-family: "Century Gothic", Futura, Verdana;
+    color: #F0F0F0;
+    background-color: #003366;
+    text-align: center;
+    font-weight: bolder;
+    border: 2px solid white;
+    
+}
+
+th.main {
+    background-color: #F0F0F0;
+    color: #A4A400;
+    font-family: "Century Gothic", Futura, Verdana;
+    text-align: center;
+    column-span: all;
+    border: 2px solid white;
+    padding: 5px;
+    
+}
+
+h1.main {
+    background-color: #F0F0F0;
+    color: #A4A400;
+    font-family: "Century Gothic", Futura, Verdana;
+    text-align: center;
+    column-span: all;
+    border: 2px solid white;
+    padding: 5px;
+    width: 790px;
+    font-size: 100%;
+    
+}
+
+h1.main2 {
+    background-color: #F0F0F0;
+    color: #A4A400;
+    font-family: "Century Gothic", Futura, Verdana;
+    text-align: center;
+    column-span: all;
+    border: 2px solid white;
+    padding: 5px;
+    width: 452px;
+    font-size: 100%;
+}
+    
+
+td {
+    
+    border: 2px solid white;
+    padding: 5px;
+}
+
+td.blue {
+    font-family: "Century Gothic", Futura, Verdana;
+    color: #F0F0F0;
+    background-color: #003366;
+    text-align: center;
+    font-weight: bolder;
+}
+
+h1 {
+    background-color: #F0F0F0;
+    color: #A4A400;
+    font-family: "Century Gothic", Futura, Verdana;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    
+}
+
+h1.lemon{
+    color: #3B240B;
+    background-color: #FFBF00;
+}
+
+h2 {
+    
+    font-family: Georgia;
+}
+
+h2.program { 
+    font-family: "Lucida Console", Monaco, monospace;
+    color: white;
+    letter-spacing: 3px;
+    font-size: 220%;
+}
+
+
+
+h3 {
+    
+    font-family: Georgia, Garamond;
+}
+
+h3.program {
+    font-family: Arial;
+    color: #0B6121;
+    font-size: 150%;    
+}
+
+ul.olive{
+    list-style-image: url('oliveicon.png');
+}
+
+ul.nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li.navbar {
+    
+    float: left;
+}
+
+a.nav {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    font-family: "Century Gothic";
+    color: #FFFFFF;
+    background-color: #003366;
+    text-align: center;
+    padding: 4px;
+    
+}
+
+span.bold {
+    font-weight: bold;
+    color: #210B61;
+}
+
+span.bold2{
+    font-weight: bold;
+    font-size: 150%;
+}
+
+ul.lemon{
+     list-style-type: square;
+}
+    
